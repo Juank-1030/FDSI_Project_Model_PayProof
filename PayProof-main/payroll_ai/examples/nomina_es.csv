@@ -1,0 +1,16 @@
+id,nombre,apellido,email,departamento,cargo,salario,bono,fecha_ingreso
+1001,Juan,Pérez,juan.perez@empresa.com,Ventas,Analista,4000000,200000,2021-01-11
+1002,María,López,maria.lopez@empresa.com,Finanzas,Coordinador,5400000,0,2020-01-18
+1003,Carlos,Gómez,carlos.gomez@empresa.com,Tecnología,Gerente,3300000,0,2016-07-16
+1004,Ana,Torres,ana.torres@empresa.com,Recursos Humanos,Ingeniero,2400000,200000,2016-09-16
+1005,Luis,Ramírez,luis.ramirez@empresa.com,Logística,Auxiliar,2300000,0,2018-01-19
+1006,Sofía,Vargas,sofia.vargas@empresa.com,Ventas,Analista,5700000,500000,2015-04-10
+1007,Pedro,Castro,pedro.castro@empresa.com,Finanzas,Coordinador,5500000,200000,2019-07-12
+1008,Laura,Rojas,laura.rojas@empresa.com,Tecnología,Gerente,5400000,0,2024-05-18
+1009,Andrés,Moreno,andres.moreno@empresa.com,Recursos Humanos,Ingeniero,3100000,0,2024-04-15
+1010,Camila,Ortiz,camila.ortiz@empresa.com,Logística,Auxiliar,2600000,0,2024-01-19
+1011,Diego,Suárez,diego.suarez@empresa.com,Ventas,Analista,3300000,500000,2023-07-15
+1012,Valentina,Cruz,valentina.cruz@empresa.com,Finanzas,Coordinador,4900000,500000,2020-05-13
+1013,Juan,Díaz,juan.diaz@empresa.com,Tecnología,Gerente,3100000,200000,2016-05-18
+1014,Marta,Herrera,marta.herrera@empresa.com,Recursos Humanos,Ingeniero,5100000,300000,2022-05-19
+1015,Jorge,Medina,jorge.medina@empresa.com,Logística,Auxiliar,2400000,0,2023-07-12
